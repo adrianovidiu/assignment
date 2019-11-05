@@ -1,0 +1,2 @@
+# TrainingGIT
+ Training Purpose
