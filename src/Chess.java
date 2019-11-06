@@ -6,3 +6,4 @@ public class Chess {
         System.out.println("happy for you");
     }
 }
+ 
